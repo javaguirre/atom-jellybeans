@@ -4,6 +4,10 @@
   "version": "1.5.0",
   "description": "Jellybeans.vim like syntax theme",
   "repository": "https://github.com/javaguirre/atom-jellybeans",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
