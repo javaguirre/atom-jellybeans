@@ -1,3 +1,7 @@
+## 1.4.0 - Indent color
+* Indent color darker
+* New theme screenshot
+
 ## 1.3.0 - Small changes
 * Fix pre-1.0 styles for line-number sidebar
 
